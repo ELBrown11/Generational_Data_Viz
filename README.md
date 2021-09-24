@@ -8,3 +8,6 @@ The data is about spending habits across generations (Millenials, Generation X, 
 * Millenials spend the least on furniture/building
 * Millenials spend more on gasoline than any other generation
 * it would be interesting to compare these spending habits with income and debt
+
+# Visualization
+![Generational Plots](/dataviz.png)
